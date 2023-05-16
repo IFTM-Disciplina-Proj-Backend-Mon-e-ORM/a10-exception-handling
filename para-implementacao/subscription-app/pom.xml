@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.iftm</groupId>
-	<artifactId>aula9</artifactId>
+	<artifactId>aula10</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>aula9</name>
-	<description>Aula 9</description>
+	<name>aula10</name>
+	<description>Aula 10</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
